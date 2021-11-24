@@ -90,6 +90,6 @@ class CuatroEnRaya:
                 self.mostrar_tablero()
                 break
 
-
+# Comenzamos el juego
 juego = CuatroEnRaya(6,7)
 juego.jugar()
